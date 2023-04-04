@@ -1,5 +1,5 @@
 [package]
-name = "archive_rs"
+name = "archive_is"
 version = "0.1.0"
 edition = "2021"
 authors = ["Shane Stephenson <stephenson.shane.a@gmail.com>"]
