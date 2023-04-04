@@ -2,6 +2,13 @@
 name = "archive_rs"
 version = "0.1.0"
 edition = "2021"
+authors = ["Shane Stephenson <stephenson.shane.a@gmail.com>"]
+readme = "README.md"
+description = "A small crate to use for archiving and accessing already-archived websites on https://archive.is"
+homepage = "https://github.com/UnsafeOats/archive_rs"
+repository = "https://github.com/UnsafeOats/archive_rs"
+license = "MIT"
+keywords = ["archive", "paywall"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
