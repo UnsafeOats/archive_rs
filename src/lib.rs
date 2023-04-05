@@ -4,6 +4,7 @@ use std::error::Error;
 use std::time::Duration;
 use urlencoding::encode;
 
+#[derive(Debug, Clone)]
 pub struct ArchiveSesh {
     pub submit_id: String,
 }
